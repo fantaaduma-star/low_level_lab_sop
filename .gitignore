@@ -1,0 +1,9 @@
+# binarki (pliki bez rozszerzenia)
+*
+!*/
+!*.*
+!Makefile
+
+# z .idea w repo zostaje tylko misc.xml (oznacza projekt jako Makefile)
+.idea/*
+!.idea/misc.xml
